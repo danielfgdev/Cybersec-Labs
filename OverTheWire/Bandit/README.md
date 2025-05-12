@@ -19,6 +19,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 10 – Encontrar la contraseña en una cadena legible precedida por "=" en un archivo .txt](./Bandit10.md)
 - [Bandit 11 – Descodificar texto codificado en Base64](./Bandit11.md)
 - [Bandit 12 – Rotar 13 posiciones las letras](./Bandit12.md)
+- [Bandit 13 – Comprobar formatos y descomprimir múltiples archivos](./Bandit13.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
