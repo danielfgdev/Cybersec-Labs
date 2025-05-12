@@ -29,11 +29,11 @@ Después uso el comando:
 
 ![](images/Bandit13/2025-05-13-00-30-21.png)
 
-***cp***, es el comando para copiar archivos.
+***cp*** , es el comando para copiar archivos.
 
 ***/home/bandit12/data.txt*** , la ruta completa al archivo de origen que voy a copiar.
 
-***/tmp/tmp.Sjrl9PvZFX/*** la ruta de destino, en este caso el directorio temporal de destino. Todo este comando se podría haber sustituido por un ```.``` ya que yo ya estaba dentro de ese directorio.
+***/tmp/tmp.Sjrl9PvZFX/*** , la ruta de destino, en este caso el directorio temporal de destino. Todo este comando se podría haber sustituido por un ```.``` ya que yo ya estaba dentro de ese directorio.
 
 Si le hago un ```cat data.txt``` para ver el contenido:
 
