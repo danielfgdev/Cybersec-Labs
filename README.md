@@ -34,9 +34,10 @@ Repositorio donde documento y explico los retos de ciberseguridad que voy resolv
 ## ⚙️ Herramientas y recursos usados
 
 - VSCode + extensión Paste Image  
-- Windows 10  
 - Kali Linux corriendo en VirtualBox  
 - Markdown para documentación
+- Windows 11
+- Asus Zenbook
 
 ---
 
