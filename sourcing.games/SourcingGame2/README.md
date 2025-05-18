@@ -8,9 +8,9 @@ Aquí encontrarás una descripción de cada reto que he resuelto, junto con mis 
 
 - [Level 1 – Conseguir la contraseña de una URL](./Level01.md)
 - [Level 2 – Ver contenido anterior en una web](./Level02.md)
-- [Level 3 – Encontrar keyword oculta en linkedin.com](./Level03.md)
-- [Level 4 – Extraer dirección de email de un perfil de GitHub](./Level04.md)
-
+- **El Level 3 NO existe**
+- [Level 4 – Encontrar keyword oculta en linkedin.com](./Level04.md)
+- [Level 5 – Extraer dirección de email de un perfil de GitHub](./Level05.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 

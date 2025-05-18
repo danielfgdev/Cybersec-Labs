@@ -1,57 +1,33 @@
 # Level 4
-# Extraer dirección de email de un perfil de GitHub
-[Link Level 4](https://sourcing.games/game-2/game-2-cjas1/)
+# Encontrar keyword oculta en linkedin.com
+[Link Level 4](https://sourcing.games/game-2/game-2-c4cca/)
 
 ---
 
 ## Objetivo:
 
-1.- Extraer la dirección de email de un perfil de GitHub, después usar la primera parte de la dirección de email para abrir un docx, allí estará la contraseña.
+1.- Encontrar Keyword oculta en linkedin.com.
 
 ---
 
-## Visitando el usuario y extrayendo su email:
+## Visitando el robots.txt de LinkedIn:
 
-En primer lugar, entramos al perfil de GitHub que nos indican:
+Nos dicen que LinkedIn no permite que algunos robots indexen ciertas cosas de la web, y que esos robots saben la clave que yo busco.
 
-https://github.com/angularjs-gdit
+También nos comentan que la clave es algo que va antes de @linkedin.com.
 
-Una de las formas de extraer el email de cualquier usuario de GitHub es la siguiente:
+Con esas pistas podemos entrar a ver el archivo robots.txt de LinkedIn:
 
-Necesitamos que el usuario tenga algún repositorio creado, visitamos cualquiera de sus repositorios.
+https://www.linkedin.com/robots.txt
 
-En mi caso usaré el primero que me sale:
+Allí podemos ver lo siguiente:
 
-![](images/Level04/2025-05-19-01-26-41.png)
+![](images/Level04/2025-05-19-00-50-33.png)
 
-Entramos en ese repositorio y veremos lo siguiente:
+Con lo cual, ya tenemos la contraseña, todo lo que va antes de @linkedin.com:
 
-![](images/Level04/2025-05-19-01-06-12.png)
-
-Ahora debemos de hacer clic en el número de identificación del último commit, o en cualquiera de los "nombres" de algún commit:
-
-![](images/Level04/2025-05-19-01-08-30.png)
-
-Ahora, después de hacer clic y de que nos lleve a ver el commit, nos vamos a la URL, y al final de la URL añadimos lo siguiente:
-
-```.patch```
-
-Así quedaría:
-
-![](images/Level04/2025-05-19-01-10-47.png)
-
-Ahora, entramos a esa URL y vemos lo siguiente:
-
-![](images/Level04/2025-05-19-01-12-07.png)
-
-Nos indican que lo que va antes de la ```@``` es lo que debemos usar como contraseña para ver el .docx:
-
-```pt103368```
-
-Con esa contraseña abrimos el .docx y nos muestran lo siguiente:
-
-![](images/Level04/2025-05-19-01-17-05.png)
+![](images/Level04/2025-05-19-00-54-24.png)
 
 ---
 
-**Contraseña: ```s00rcing```**
+**Contraseña: ```whitelist-crawl```**
