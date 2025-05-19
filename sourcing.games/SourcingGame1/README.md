@@ -13,6 +13,7 @@ Aquí encontrarás una descripción de cada reto que he resuelto, junto con mis 
 - [Level 5 – Encontrar el nombre de un usuario de StackOverflow](./Level05.md)
 - [Level 6 – Encontrar carpeta indexada por Google](./Level06.md)
 
+#### Todos los niveles del reto SourcingGame1 completados.
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 

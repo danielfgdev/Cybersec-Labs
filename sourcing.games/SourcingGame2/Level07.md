@@ -26,6 +26,6 @@ Es lo único que contiene el archivo... así que decido revisar las propiedades 
 
 ---
 
-Este es el último nivel del Sourcing Game 2.
+Este es el último nivel del SourcingGame2.
 
 ![](images/Level07/2025-05-20-01-32-25.png)

@@ -14,6 +14,8 @@ Aquí encontrarás una descripción de cada reto que he resuelto, junto con mis 
 - [Level 6 – Encontrar a un usuario específico de LinkedIn](./Level06.md)
 - [Level 7 – Contraseña oculta en un .docx](./Level07.md)
 
+#### Todos los niveles del reto SourcingGame2 completados.
+
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
 ---

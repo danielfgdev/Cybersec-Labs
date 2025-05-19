@@ -10,6 +10,8 @@ Cada reto está documentado con una explicación de los pasos que seguí para re
 - [HackLab 2 – Sitio privado y archivo cifrado](./HackLab2.md) 🔐 (Forense + Cripto)
 - [HackLab 3 – Rastreo digital](./HackLab3.md) 🌍 (OSINT + Forense)
 
+#### Todos los niveles de HacksLabs completados.
+
 Cada uno de estos retos representa un aprendizaje valioso y práctico en el campo de la ciberseguridad. Puedes ver mis procesos y cómo abordé cada uno de ellos en los archivos correspondientes.
  
 ---
