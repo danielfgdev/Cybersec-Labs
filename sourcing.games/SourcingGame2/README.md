@@ -12,6 +12,7 @@ Aquí encontrarás una descripción de cada reto que he resuelto, junto con mis 
 - [Level 4 – Encontrar keyword oculta en linkedin.com](./Level04.md)
 - [Level 5 – Extraer dirección de email de un perfil de GitHub](./Level05.md)
 - [Level 6 – Encontrar a un usuario específico de LinkedIn](./Level06.md)
+- [Level 7 – Contraseña oculta en un .docx](./Level07.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
