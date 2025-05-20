@@ -34,3 +34,5 @@ https://inovace.eu/folder/
 ---
 
 Este es el último nivel del SourcingGame1.
+
+![](images/Level06/2025-05-20-02-01-24.png)
