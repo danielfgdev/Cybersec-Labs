@@ -7,6 +7,7 @@ Aquí encontrarás una descripción de cada reto que he resuelto, junto con mis 
 ### Retos resueltos:
 
 - [Level 1 – Conseguir la contraseña de una URL](./Level01.md)
+- [Level 2 – Descifrar un mensaje](./Level02.md)
 
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
