@@ -10,6 +10,7 @@ Aquí encontrarás una descripción de cada reto que he resuelto, junto con mis 
 - [Level 2 – Descifrar un mensaje](./Level02.md)
 - [Level 3 – Encontrar a una persona y averiguar la empresa donde trabajó hace unos años](./Level03.md)
 - [Level 4 – Conseguir una contraseña en una URL](./Level04.md)
+- [Level 5 – Investigar y localizar el nombre de una persona](./Level05.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
