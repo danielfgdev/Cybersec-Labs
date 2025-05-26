@@ -30,6 +30,8 @@ El primer usuario que nos aparece es:
 
 ![](images/Level03/2025-05-23-23-26-49.png)
 
+---
+
 ## Buscando la empresa:
 
 Mirando su perfil, vemos lo siguiente:
