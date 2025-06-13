@@ -22,6 +22,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 13 – Comprobar formatos y descomprimir múltiples archivos](./Bandit13.md)
 - [Bandit 14 – Usar una clave privada SSH y obtener su contraseña](./Bandit14.md)
 - [Bandit 15 – Enviar contraseña mediante un determinado puerto en localhost](./Bandit15.md)
+- [Bandit 16 – Enviar contraseña mediante un determinado puerto en localhost usando SSL/TLS](./Bandit16.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
