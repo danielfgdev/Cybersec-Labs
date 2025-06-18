@@ -105,7 +105,9 @@ A continuación, probamos a conectarnos mediante ssh a bandit17 enviando nuestro
 
 ![](images/Bandit17/2025-06-19-00-43-44.png)
 
-Ahora que estamos conectados, toca buscar la contraseña, después de un rato... :
+Ahora que estamos conectados, toca buscar la contraseña, después de un rato... uso el comando:
+
+```cat ../../etc/bandit_pass/bandit17```
 
 ![](images/Bandit17/2025-06-19-00-48-22.png)
 
