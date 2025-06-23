@@ -24,6 +24,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 15 – Enviar contraseña mediante un determinado puerto en localhost](./Bandit15.md)
 - [Bandit 16 – Enviar contraseña mediante un determinado puerto en localhost usando SSL/TLS](./Bandit16.md)
 - [Bandit 17 – Enviar contraseña mediante a un determinado puerto entre el 31000 y 32000](./Bandit17.md)
+- [Bandit 18 – Encontrar la única línea que ha cambiado entre dos archivos](./Bandit18.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
