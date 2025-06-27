@@ -39,7 +39,7 @@ Lo que significa:
 
 ***cat*** , se usa para leer el contenido de un archivo.
 
-***/etc/bandit_pass/bandit20*** , es el archivo del sistema que contiene la contraseña del siguiente nivel (bandit20). Normalmente no tenemos permisos para leerlo directamente, pero al ejecutarlo a través del binario bandit20-do, sí podemos.
+***/etc/bandit_pass/bandit20*** , es el archivo que contiene la contraseña del siguiente nivel (bandit20). Normalmente no tenemos permisos para leerlo directamente, pero al ejecutarlo a través del binario bandit20-do, sí podemos.
 
 ---
 
