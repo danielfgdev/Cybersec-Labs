@@ -26,6 +26,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 17 – Enviar contraseña mediante a un determinado puerto entre el 31000 y 32000](./Bandit17.md)
 - [Bandit 18 – Encontrar la única línea que ha cambiado entre dos archivos](./Bandit18.md)
 - [Bandit 19 – Acceder al archivo readme sin que me expulse la shell modificada al iniciar sesión mediante SSH](./Bandit19.md)
+- [Bandit 20 – Usar un binario con permisos setuid para obtener la contraseña](./Bandit20.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
