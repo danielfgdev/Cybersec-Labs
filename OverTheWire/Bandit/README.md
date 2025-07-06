@@ -27,6 +27,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 18 – Encontrar la única línea que ha cambiado entre dos archivos](./Bandit18.md)
 - [Bandit 19 – Acceder al archivo readme sin que me expulse la shell modificada al iniciar sesión mediante SSH](./Bandit19.md)
 - [Bandit 20 – Usar un binario con permisos setuid para obtener la contraseña](./Bandit20.md)
+- [Bandit 21 – Enviar la contraseña del nivel actual a un binario setuid en localhost y recibir la contraseña del siguiente nivel](./Bandit21.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
