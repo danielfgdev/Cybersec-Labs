@@ -35,13 +35,13 @@ Ahora, voy a mirar el contenido del script ejecutado por el cronjob:
 
 ![](images/Bandit23/2025-07-16-01-22-57.png)
 
-***#!/bin/bash*** , indica que es un script de Bash.
+***#!/bin/bash***, indica que es un script de Bash.
 
 ***myname=$(whoami)*** , guarda el nombre del usuario que ejecuta el script (en este caso, bandit23) en la variable myname.
 
 ***mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)*** , genera un hash MD5 de la cadena I am user bandit23 y lo guarda en mytarget.
 
-***echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget" cat /etc/bandit_pass/$myname > /tmp/$mytarget*** , copia la contraseña del archivo bandit23 a /tmp/ hash.
+***echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget" cat /etc/bandit_pass/$myname > /tmp/$mytarget*** , copia la contraseña del archivo bandit23 a /tmp hash.
 
 Importante: el script se ejecuta como bandit23, por lo que la contraseña que se copia es la del siguiente nivel, que es justamente la que necesitamos.
 
