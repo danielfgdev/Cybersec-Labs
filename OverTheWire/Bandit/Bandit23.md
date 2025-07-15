@@ -13,7 +13,7 @@ Conectarse para hacer el reto:
 
 La contraseña es ```tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q```
 
-Este nivel es bastante parecido al anterior, así que lo que sea similar omitiré la explicación.
+Como este nivel es bastante similar al anterior, no explicaré nuevamente los elementos comunes.
 
 En primer lugar, reviso el directorio que se indica en el enunciado del reto:
 
