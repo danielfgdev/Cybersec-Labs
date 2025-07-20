@@ -61,7 +61,7 @@ Ese comando modifica los permisos de ***get_pass.sh*** para hacerlo ejecutable, 
 
 ![](images/Bandit24/2025-07-20-23-43-25.png)
 
-Ese comando muestra en pantalla el contenido de ***/tmp/b24-pass-bandit23.txt***, que es donde mi script volcó la contraseña de bandit24.
+Ese comando muestra en pantalla el contenido de ***/tmp/b24-pass-bandit23.txt***, que es donde mi script volcó la contraseña de bandit24. (El cron se ejecuta cada minuto; si se consulta el archivo antes de ese tiempo, es posible que aún no exista y no muestre nada).
 
 ---
 
