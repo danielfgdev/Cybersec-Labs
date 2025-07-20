@@ -30,6 +30,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 21 – Enviar la contraseña del nivel actual a un binario setuid en localhost y recibir la contraseña del siguiente nivel](./Bandit21.md)
 - [Bandit 22 – Leer la contraseña que cronjob copia en un directorio](./Bandit22.md)
 - [Bandit 23 – Obtener la contraseña analizando el script ejecutado por cronjob](./Bandit23.md)
+- [Bandit 24 – Inyectar un script en /var/spool/bandit24/foo para que cron lo ejecute como bandit24 y copie la contraseña](./Bandit24.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
