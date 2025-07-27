@@ -31,6 +31,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 22 – Leer la contraseña que cronjob copia en un directorio](./Bandit22.md)
 - [Bandit 23 – Obtener la contraseña analizando el script ejecutado por cronjob](./Bandit23.md)
 - [Bandit 24 – Inyectar un script en /var/spool/bandit24/foo para que cron lo ejecute como bandit24 y copie la contraseña](./Bandit24.md)
+- [Bandit 25 – Fuerza bruta con conexión persistente para obtener contraseña oculta](./Bandit25.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
