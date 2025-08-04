@@ -33,6 +33,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 24 – Inyectar un script en /var/spool/bandit24/foo para que cron lo ejecute como bandit24 y copie la contraseña](./Bandit24.md)
 - [Bandit 25 – Fuerza bruta con conexión persistente para obtener contraseña oculta](./Bandit25.md)
 - [Bandit 26 – Escapando de una shell restringida usando more y vim para obtener acceso como bandit26](./Bandit26.md)
+- [Bandit 27 – Escalada de privilegios a bandit27 mediante binario SUID personalizado](./Bandit27.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
