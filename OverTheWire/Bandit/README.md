@@ -35,6 +35,7 @@ Aquí encontrarás una descripción de cada nivel que he resuelto, junto con mis
 - [Bandit 26 – Escapando de una shell restringida usando more y vim para obtener acceso como bandit26](./Bandit26.md)
 - [Bandit 27 – Escalada de privilegios a bandit27 mediante binario SUID personalizado](./Bandit27.md)
 - [Bandit 28 – Clonar el repositorio git accesible por SSH y extraer la contraseña del siguiente nivel](./Bandit28.md)
+- [Bandit 29 – Clonar el repositorio git y buscar la contraseña en el historial de commits](./Bandit29.md)
 
 Cada archivo de la lista contiene detalles sobre cómo resolví cada uno de los retos, y las técnicas que utilicé en el proceso.
 
