@@ -51,7 +51,7 @@ Voy a cambiarme al directorio ***repo***, que es lo que muestra que tengo, y des
 
 ```cd repo```
 
-```ls```
+```ls -l```
 
 ![](images/Bandit29/2025-08-21-00-34-58.png)
 
@@ -81,7 +81,7 @@ Ya tenemos la contraseña, pero antes de terminar, si revisamos los 3 commits qu
 
 ![](images/Bandit29/2025-08-21-00-58-29.png)
 
-En primer lugar se creó un README.md y en contraseña muestra ***<TBD>***, "To Be Determined", en el siguiente commit se eliminó la línea donde en la contraseña ponía ***<TBD>*** y en su lugar se puso la contraseña real, y en el último commit se eliminó esa línea (o se modificó) y en su lugar ya aparece oculta la contraseña.
+En primer lugar se creó un README.md y en contraseña muestra ***< TBD >***, "To Be Determined", en el siguiente commit se eliminó la línea donde en la contraseña ponía ***< TBD >*** y en su lugar se puso la contraseña real, en el último commit se eliminó esa línea (o se modificó) y en su lugar ya aparece oculta la contraseña.
 
 Así que, ya tengo la contraseña del siguiente nivel:
 
